@@ -1,6 +1,6 @@
-# 🍒Hilbert curve web app
+# 🍒 Hilbert curve
 
-An implementation of Hilbert curve (also known as a Hilbert space-filling curve is a continuous fractal space-filling curve) in [Dart](https://www.dartlang.org/).
+An implementation of [Hilbert curve](https://en.wikipedia.org/wiki/Hilbert_curve) 
 
 Demo: https://sureshg.github.io/hilbert-curve
 
